@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jack-P-Skelton
 - 👀 I’m interested in becoming a Full Stack Developer
-- 🌱 I’m currently learning more about Java, JavaScript, AngularJS, HTML, and CSS. I want to learn React, Vue, Svelte, TypeScript, and more
+- 🌱 I’m currently learning more about Java, JavaScript, AngularJS, HTML, and CSS. I want to learn React, Vue, Svelte, and TypeScript
 - 📫 Reach out to JackPetersonSkelton@gmail.com to contact me 
 
 <!---
